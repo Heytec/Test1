@@ -19,12 +19,19 @@ Text
 Picture
 ![i like you ](c.png)
 Emoji
-![i like you ](imoji.png)
+![i like you ](imoji.jpg)
 
 
 List
   * i dont like you
   *give me cash
+  
+  
+  
+  | kenya | nigeria | ghana |
+|-------|---------|-------|
+| 5     | 6       | 33    |
+| 3     | 4       | 4     |
 
 Table
   kenya|china | Nigeia
